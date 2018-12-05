@@ -163,4 +163,14 @@ Economy Stuff:
 guild
 daily
 money
+
+Music:
+play: Queues some music
+queue: Shows the queue
+pause: Pauses the music
+resume: Resumes the music
+stop: Stops the music
+skip: Skips the music
+volume {number}: Changes the volume
+np: Shows the currently playing song
 ```
