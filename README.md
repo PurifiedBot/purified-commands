@@ -167,9 +167,14 @@ Stats:
 userstats
 
 Economy Stuff:
-guild
 daily
-money
+balance
+leaderboard
+transfer
+coinflip
+dice
+delete
+work
 
 Music:
 play: Queues some music
