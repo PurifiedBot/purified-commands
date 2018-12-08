@@ -5,12 +5,19 @@ General:
 help: Displays a list of available commands, or detailed information for a specified command.
 
 Admin:
+ahelp: shows the admin help menu
 disable: Disables a command or command group.
 enable: Enables a command or command group.
 message: Enables or disables the levelup message.
 prefix: Shows or sets the command prefix.
 reward: Manages the reward system
 update: Updates all user reward roles on this server. Fixes missing roles.
+
+Moderation:
+kick {@user}
+ban {@user}
+hugban {@user} : softban removing 7 days of messages
+
 
 Util:
 user-info: Gets information about a user.
@@ -173,4 +180,38 @@ stop: Stops the music
 skip: Skips the music
 volume {number}: Changes the volume
 np: Shows the currently playing song
+
+Image:
+owo
+baka
+triggered
+pout
+awoo
+blush
+neko
+sleepy
+smile
+greet
+wag
+cat
+jojo
+meow
+avatar {@user}
+dance
+hug {@user}
+cry
+nom
+dab
+poi
+shoot {@user}
+cuddle {@user}
+tickle {@user}
+kiss {@user}
+punch {@user}
+pat {@user}
+slap {@user}
+likc {@user}
+poke {@user}
+
+
 ```
